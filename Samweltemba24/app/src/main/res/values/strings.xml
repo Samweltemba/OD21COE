@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Samweltemba24</string>
+    <string name="imagine_create_design">Imagine.Create.Design</string>
+    <string name="where_ideas_transform_into_reality_connetions_flourish_and_creativity_knows_no_limits">where_ideas_transform_into_reality_connetions_flourish_and_creativity_knows_no_limits</string>
+    <string name="where_ideas_transform_into_reality_connection_flourish_and_creativity_knows_no_limit">Where ideas transform into reality, connection flourish, and creativity knows no limit</string>
+    <string name="lets_get_started">Lets get started</string>
+    <string name="imagine_create_designing">Imagine.Create.Design</string>
+    <string name="lets_let_you_login">lets let you login</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="username">Username</string>
+    <string name="sign_up">Sign up</string>
+</resources>
